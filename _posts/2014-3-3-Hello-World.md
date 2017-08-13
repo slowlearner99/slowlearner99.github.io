@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you shouldn’t buy GTA 5 and Skyrim for now
+title: You are all set up
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).

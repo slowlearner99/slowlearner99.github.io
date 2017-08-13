@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are Eeyore.me, more about us coming soon!
 
 ### More Information
 
